@@ -46,7 +46,7 @@ while running:
 ## 20/11/2024
     ## https://stackoverflow.com/questions/20002242/how-to-scale-images-to-screen-size-in-pygame
 
-    whitePawn = pygame.image.load('Pieces/White/wp.png')
+    whitePawn = pygame.image.load('wp.png')
     whitePawn = pygame.transform.scale(whitePawn, (len, len)) #
 
 
